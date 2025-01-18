@@ -1,0 +1,80 @@
+/* header styles */
+
+.header__title {
+    font-family: Source Sans Pro;
+    font-size: 24px;
+    font-weight: 700;
+    color: #F17228;
+}
+
+.nav__text {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 700;
+    color: #424242;
+}
+
+.header__btn {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 700;
+    color: #424242;
+}
+
+.header__btn__orange {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFB800;
+}
+
+/* starving styles */
+
+.starving__title {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.starving__text {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #504f4f;
+}
+
+.delivory__btn {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #F17228;
+}
+
+.delivory__btn__grey {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #757575;
+}
+
+.starving__find {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #9E9E9E; 
+}
+
+.address__btn {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+
+
+
+.ready__block {
+    background-image: url(/images/food.jpg);
+}
