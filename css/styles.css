@@ -74,7 +74,7 @@
     color: #FFB800;
     background-color: inherit;
     border: none;
-    padding: 24px 14px;
+    padding:14px;
     border-radius: 15px;
 }
 
@@ -112,7 +112,7 @@
     padding: 30px 20px;
 }
 
-.delivory__btn {
+.delivory__link {
     font-family: Source Sans Pro;
     font-size: 15px;
     font-weight: 500;
@@ -129,7 +129,7 @@
     margin-right: 10px;
 }
 
-.delivory__btn__grey {
+.delivory__link__grey {
     font-family: Source Sans Pro;
     font-size: 15px;
     font-weight: 500;
