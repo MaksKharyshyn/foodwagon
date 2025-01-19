@@ -72,9 +72,381 @@
     color: #FFFFFF;
 }
 
+/* greys styles */
 
+.grey__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #424242;
+}
 
+.grey__text {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 700;
+    color: #F17228; 
+}
+
+/* how styles */
+
+.how__title {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 700;
+    color: #F17228;
+}
+
+.how__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #F17228;
+}
+
+.how__text {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: grey;
+}
+
+/* popular styles */
+
+.popular__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.popular__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.popular__link {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFB30E;
+}
+
+.popular__text {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.popular__btn {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #FFB30E;
+}
+
+/* featured styles */
+
+.featured__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.features__text {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.features__second__text {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FFB30E;
+}
+
+.features__btn__red {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #F17228; 
+}
+
+.features__btn {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #79B93C;
+}
+
+.features__last__btn {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #FFB30E;
+}
+
+/* search styles */
+
+.search__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.search__text {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #424242; 
+}
+
+/* comfortable styles */
+
+.comfortable {
+    background-color: #FEEFD0;
+}
+
+.comfortable__text {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FD7800;
+}
+
+.comfortable__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FD7800;
+}
+
+.comfortable__second__text {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FD7800;
+}
+
+/* sandwiches styles */
+
+.left__sandwiches__litle {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FD7800;
+}
+
+.left__sandwiches__text {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #616161;
+}
+
+.left__sandwiches__btn {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #FD7800;
+}
+
+/* chicken styles */
+
+.left__chicken__litle {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FD7800;
+}
+
+.left__chicken__text {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #616161;
+}
+
+.left__chicken__btn {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #FD7800;
+}
+
+/* pizza styles */
+
+.left__pizza__litle {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FD7800; 
+}
+
+.left__pizza__text {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #616161;
+}
+
+.left__pizza__btn {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #FD7800;
+}
+
+/* ready styles */
+
+.ready {
+    background-image: url(/images/food.jpg);
+}
+
+.ready__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
 
 .ready__block {
     background-image: url(/images/food.jpg);
+}
+
+.ready__btn {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #FD7800;
+}
+
+/* footer styles */
+
+.footer {
+    background-color: #212121;
+}
+
+.city__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.city__link {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 500;
+    color: #F5F5F5;
+}
+
+/* footer company styles */
+
+.company__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF; 
+}
+
+.company__link {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 500;
+    color: #F5F5F5;
+}
+
+/* footer contact styles */
+
+.contact__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.contact__link {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 500;
+    color: #F5F5F5;
+}
+
+/* footer legal styles */
+
+.legal__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.legal__link {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 500;
+    color: #F5F5F5;
+}
+
+/* footer follow styles */
+
+.follow__title {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #F5F5F5;
+}
+
+.follow__text {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #BBBBBB;
+}
+
+.follow__way {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #ADADAD;
+}
+
+.follow__btn {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #FD7800;
+}
+
+/* footer copy left styles */
+
+.copy__left__text {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #F5F5F5;
+}
+
+/* footer copy right styles */
+
+.copy__right__text {
+    font-family: Source Sans Pro;
+    font-size: 15px;
+    font-weight: 500;
+    color: #F5F5F5;
 }
