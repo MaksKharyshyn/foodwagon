@@ -46,7 +46,7 @@
     display: flex;
 }
 
-.header__btn {
+.btn__link {
     font-family: Source Sans Pro;
     font-size: 18px;
     font-weight: 700;
@@ -57,7 +57,7 @@
     padding: 24px 14px;
 }
 
-.header__btn:last-child {
+.btn__link:last-child {
     margin-right: 0;
 }
 
@@ -67,7 +67,7 @@
     margin-right: 10px;
 }
 
-.header__btn__orange {
+.btn__link__orange {
     font-family: Source Sans Pro;
     font-size: 18px;
     font-weight: 700;
@@ -178,6 +178,7 @@
 .icon-white__search {
     width: 23px;
     height: 18px;
+    margin-right: 10px;
 }
 
 .starving__svg {
@@ -186,6 +187,16 @@
 }
 
 /* greys styles */
+
+
+.grey__list {
+    margin-top: 80px;
+    display: flex;
+}
+
+.grey__item {
+   margin-right: 10px; 
+}
 
 .grey__title {
     font-family: Source Sans Pro;
@@ -198,7 +209,11 @@
     font-family: Source Sans Pro;
     font-size: 15px;
     font-weight: 700;
-    color: #F17228; 
+    color: #F65900;
+    background-color:#F17228 50%;
+    border-radius: 13px; 
+    padding: 8px 16px;
+    margin-bottom: 25px;
 }
 
 /* how styles */
