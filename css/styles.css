@@ -3,6 +3,7 @@
 .header__main__block {
     display: flex;
     justify-content: space-around;
+    padding: 5px 50px;
 }
 
 .header__logo {
@@ -85,11 +86,17 @@
 
 /* starving styles */
 
+.starving {
+    background-color: #FFB30E;
+    padding: 50px 500px 100px 200px ;
+}
+
 .starving__title {
     font-family: Source Sans Pro;
-    font-size: 18px;
+    font-size: 50px;
     font-weight: 700;
     color: #FFFFFF;
+    margin-bottom: 20px;
 }
 
 .starving__text {
@@ -99,11 +106,27 @@
     color: #504f4f;
 }
 
+.starving__another__block {
+    background-color: #FFFFFF;
+    border-radius: 18px;
+    padding: 30px 20px;
+}
+
 .delivory__btn {
     font-family: Source Sans Pro;
     font-size: 15px;
     font-weight: 500;
     color: #F17228;
+    background-color: #F17228 10%; 
+    border: none;
+    padding: 14px 14px;
+    border-radius: 15px;
+}
+
+.icon-delivery {
+    width: 23px;
+    height: 18px;
+    margin-right: 10px;
 }
 
 .delivory__btn__grey {
@@ -111,13 +134,34 @@
     font-size: 15px;
     font-weight: 500;
     color: #757575;
+    background-color: inherit;
+    border: none;
+    padding: 14px 14px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.icon-pickup {
+    width: 23px;
+    height: 18px;
+    margin-right: 10px;
+}
+
+.starving__address__block {
+    display: flex;
 }
 
 .starving__find {
     font-family: Source Sans Pro;
     font-size: 15px;
     font-weight: 500;
-    color: #9E9E9E; 
+    color: #9E9E9E;
+    margin-right: 400px ;
+}
+
+.icon-red__location {
+    width: 23px;
+    height: 18px;
 }
 
 .address__btn {
@@ -125,6 +169,20 @@
     font-size: 15px;
     font-weight: 500;
     color: #FFFFFF;
+    background-image: linear-gradient(#FF7A7A , #F65900);
+    border: none;
+    border-radius: 13px;
+    padding: 21px 48px;
+}
+
+.icon-white__search {
+    width: 23px;
+    height: 18px;
+}
+
+.starving__svg {
+    display: flex;
+    justify-content: right;
 }
 
 /* greys styles */
